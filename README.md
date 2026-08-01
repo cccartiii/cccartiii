@@ -1,39 +1,47 @@
 <div align="center">
 
-<!-- Gothic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:1a1a1a&height=300&width=100%25&section=header&text=CCARTII&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+<!-- Wave Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001124,100:041f45&height=300&width=100%25&section=header&text=CCARTII&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
+
+<!-- Profile Card -->
+<img src="https://github.com/cccartiii.png" width="140" alt="Profile Picture" />
+
+<br/><br/>
+
+<h1>Hi, I'm Jay Anthonie Donasco 👋</h1>
+<p><strong>Software Developer • Full-Stack Engineer • AI/ML Explorer</strong></p>
 
 <!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=ff3333&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Software+Developer+%26+Problem+Solver;Full-Stack+Engineer+%7C+Mobile+Developer;AI%2FML+Enthusiast+%7C+System+Architect;Building+Scalable+Solutions+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=1e90ff&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Building+Bold+Ideas+Into+Real+Products;Crafting+Fast+Apps+With+Clean+Logic;Turning+Complex+Problems+Into+Simple+Solutions" />
 
-<!-- Gothic Badges -->
 <br/>
 
-[![Academic Badge](https://img.shields.io/badge/Software_Engineer-Professional-1a1a1a?style=for-the-badge&logo=github&logoColor=ff3333&labelColor=000000)](https://github.com/cccartiii)
-[![Location Badge](https://img.shields.io/badge/Location-Iloilo_City,_Philippines-1a1a1a?style=for-the-badge&logo=google-maps&logoColor=ff3333&labelColor=000000)](https://github.com/cccartiii)
+[![Software Engineer](https://img.shields.io/badge/Software_Engineer-Professional-001124?style=for-the-badge&logo=github&logoColor=1e90ff&labelColor=001124)](https://github.com/cccartiii)
+[![Location](https://img.shields.io/badge/Location-Iloilo_City,_Philippines-001124?style=for-the-badge&logo=google-maps&logoColor=1e90ff&labelColor=001124)](https://github.com/cccartiii)
+[![Focus](https://img.shields.io/badge/Focus-Full_Stack_%7C_Mobile_%7C_AI-001124?style=for-the-badge&logo=rocket&logoColor=1e90ff&labelColor=001124)](https://github.com/cccartiii)
 
 <br/><br/>
 
 <!-- Portfolio & Social Buttons -->
 <a href="https://github.com/cccartiii">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=ff3333" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-001124?style=for-the-badge&logo=github&logoColor=1e90ff" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/cccartiii">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff3333" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-001124?style=for-the-badge&logo=linkedin&logoColor=1e90ff" alt="LinkedIn"/>
 </a>
 <a href="mailto:donascojayanthonie@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff3333" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-001124?style=for-the-badge&logo=gmail&logoColor=1e90ff" alt="Gmail"/>
 </a>
 <a href="https://github.com/cccartiii">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff3333" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-001124?style=for-the-badge&logo=github&logoColor=1e90ff" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 <!-- Profile Stats Badges -->
-<img src="https://komarev.com/ghpvc/?username=cccartiii&style=for-the-badge&color=ff3333&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/cccartiii?style=for-the-badge&color=ff3333&logo=github&logoColor=white" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/cccartiii?style=for-the-badge&color=ff3333&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=cccartiii&style=for-the-badge&color=1e90ff&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/cccartiii?style=for-the-badge&color=1e90ff&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/cccartiii?style=for-the-badge&color=1e90ff&logo=github&logoColor=white" alt="Stars"/>
 
 </div>
 
@@ -43,13 +51,28 @@
 
 <div align="center">
 
-```yaml
-name: CCARTII (Jay Anthonie Donasco)
-location: Iloilo City, Philippines
-role: Software Developer & Problem Solver
-focus: Full-Stack Engineering | Mobile Development | AI/ML
-philosophy: "Code is poetry written in logic"
-```
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001124,100:0b2e5a&height=120&width=100%25" alt="blue wave section divider" />
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=1e90ff&center=false&vCenter=true&width=500&lines=I+build+software+that+feels+clean,+fast,+and+purposeful.;I+love+turning+ideas+into+products+people+actually+use." />
+    </td>
+    <td valign="top" width="45%">
+      <p align="left">
+        I'm a developer who enjoys crafting thoughtful solutions across web, mobile, and intelligent systems.
+        I care about clean architecture, strong user experience, and building things that scale without losing their soul.
+      </p>
+      <p align="left">
+        <strong>What drives me:</strong><br/>
+        ✨ Clean code and elegant systems<br/>
+        ⚡ Performance without compromise<br/>
+        🧠 Practical AI/ML integrations<br/>
+        🚀 Turning ideas into polished products
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -285,13 +308,13 @@ Developed core programming foundations through **Python automation scripts, CLI 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cccartiii&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cccartiii&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=1e90ff&icon_color=1e90ff&text_color=ffffff&bg_color=001124" />
 
 <!-- Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cccartiii&theme=radical&hide_border=true&fire=ff3333&ring=ff3333&currStreakLabel=ff3333&background=0d1117" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cccartiii&theme=dark&hide_border=true&fire=1e90ff&ring=1e90ff&currStreakLabel=1e90ff&background=001124" />
 
 <!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cccartiii&layout=compact&theme=radical&hide_border=true&title_color=ff3333&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cccartiii&layout=compact&theme=dark&hide_border=true&title_color=1e90ff&text_color=ffffff&bg_color=001124" />
 
 </div>
 
@@ -384,6 +407,6 @@ open_to:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:1a1a1a&height=100&width=100%25&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001124,100:0b2e5a&height=100&width=100%25&section=footer" />
 
 </div>
