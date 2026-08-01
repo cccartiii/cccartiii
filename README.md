@@ -23,8 +23,8 @@
 <br/><br/>
 
 <!-- Portfolio & Social Buttons -->
-<a href="https://github.com/cccartiii">
-  <img src="https://img.shields.io/badge/Portfolio-001124?style=for-the-badge&logo=github&logoColor=1e90ff" alt="Portfolio"/>
+<a href="https://cartifuture.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-001124?style=for-the-badge&logo=vercel&logoColor=1e90ff" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/cccartiii">
   <img src="https://img.shields.io/badge/LinkedIn-001124?style=for-the-badge&logo=linkedin&logoColor=1e90ff" alt="LinkedIn"/>
