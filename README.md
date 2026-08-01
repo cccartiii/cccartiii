@@ -285,18 +285,17 @@ Developed core programming foundations through **Python automation scripts, CLI 
 
 <div align="center">
 
-<a href="https://leetcode.com/cccartiii">
+<a href="https://leetcode.com/u/cccartiii/">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=1e90ff" alt="LeetCode"/>
 </a>
-<a href="https://www.geeksforgeeks.org/cccartiii">
+<a href="https://www.geeksforgeeks.org/profile/donascojayh43b">
   <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=1e90ff" alt="GeeksforGeeks"/>
 </a>
-<a href="https://www.hackerrank.com/cccartiii">
+<a href="https://www.hackerrank.com/profile/donascojayantho1">
   <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=1e90ff" alt="HackerRank"/>
 </a>
-<a href="https://www.codechef.com/cccartiii">
+<a href="https://www.codechef.com/users/cccartiii">
   <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=1e90ff" alt="CodeChef"/>
-
 </a>
 
 </div>
@@ -320,29 +319,7 @@ Developed core programming foundations through **Python automation scripts, CLI 
 
 ---
 
-## 🏅 GitHub Trophies & Contribution Snake
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=cccartiii&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commits,Repositories,Followers,Issues,PullRequests&cache_seconds=3600" alt="GitHub Trophies" />
-
-<br/><br/>
-
-### Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cccartiii&bg_color=001124&color=1e90ff&line=1e90ff&point=ffffff&area=true&hide_border=true&area_color=1e90ff" alt="Contribution Activity" />
-
-<br/><br/>
-
-### Contribution Snake
-
-<img src="https://raw.githubusercontent.com/Platane/snk/master/github-contribution-grid-snake.svg?user=cccartiii&theme=dark&color=1e90ff" alt="Contribution Snake" />
-
-</div>
-
----
-
-## 🎯 Current Focus
+##  Current Focus
 
 ```yaml
 learning:
