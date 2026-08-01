@@ -295,7 +295,7 @@ Developed core programming foundations through **Python automation scripts, CLI 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cccartiii&theme=radical&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commits,Repositories,Followers,Issues,PullRequests" />
+<img src="https://github-profile-trophy.vercel.app/?username=cccartiii&theme=radical&no-frame=true&no-bg=true&margin-w=15&title=Stars,Commits,Repositories,Followers,Issues,PullRequests&cache_seconds=3600" />
 
 </div>
 
@@ -315,7 +315,7 @@ Developed core programming foundations through **Python automation scripts, CLI 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/cccartiii/cccartiii/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cccartiii/cccartiii/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
