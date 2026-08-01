@@ -1,39 +1,39 @@
 <div align="center">
 
-<!-- Capsule Render Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=200&width=100%25&section=header&text=CCARTII&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38" />
+<!-- Gothic Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:1a1a1a&height=300&width=100%25&section=header&text=CCARTII&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=50" />
 
 <!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Software+Developer+%26+Problem+Solver;Full-Stack+Engineer+%7C+Mobile+Developer;AI%2FML+Enthusiast+%7C+System+Architect;Building+Scalable+Solutions+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=ff3333&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Software+Developer+%26+Problem+Solver;Full-Stack+Engineer+%7C+Mobile+Developer;AI%2FML+Enthusiast+%7C+System+Architect;Building+Scalable+Solutions+%F0%9F%9A%80" />
 
-<!-- Academic & Professional Badges -->
+<!-- Gothic Badges -->
 <br/>
 
-[![Academic Badge](https://img.shields.io/badge/Software_Engineer-Professional-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cccartiii)
-[![Location Badge](https://img.shields.io/badge/Location-Iloilo_City,_Philippines-8B5CF6?style=for-the-badge&logo=google-maps&logoColor=white)](https://github.com/cccartiii)
+[![Academic Badge](https://img.shields.io/badge/Software_Engineer-Professional-1a1a1a?style=for-the-badge&logo=github&logoColor=ff3333&labelColor=000000)](https://github.com/cccartiii)
+[![Location Badge](https://img.shields.io/badge/Location-Iloilo_City,_Philippines-1a1a1a?style=for-the-badge&logo=google-maps&logoColor=ff3333&labelColor=000000)](https://github.com/cccartiii)
 
 <br/><br/>
 
 <!-- Portfolio & Social Buttons -->
 <a href="https://github.com/cccartiii">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=ff3333" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/cccartiii">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff3333" alt="LinkedIn"/>
 </a>
 <a href="mailto:donascojayanthonie@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff3333" alt="Gmail"/>
 </a>
 <a href="https://github.com/cccartiii">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff3333" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 <!-- Profile Stats Badges -->
-<img src="https://komarev.com/ghpvc/?username=cccartiii&style=for-the-badge&color=8B5CF6" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/cccartiii?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/cccartiii?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=cccartiii&style=for-the-badge&color=ff3333&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/cccartiii?style=for-the-badge&color=ff3333&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/cccartiii?style=for-the-badge&color=ff3333&logo=github&logoColor=white" alt="Stars"/>
 
 </div>
 
@@ -48,24 +48,30 @@ name: CCARTII (Jay Anthonie Donasco)
 location: Iloilo City, Philippines
 role: Software Developer & Problem Solver
 focus: Full-Stack Engineering | Mobile Development | AI/ML
+philosophy: "Code is poetry written in logic"
 ```
 
 </div>
 
-I'm a dedicated and results-driven **software developer** with extensive hands-on experience in engineering modern, high-performance applications across mobile, web, and desktop platforms. I adeptly translate complex functional requirements into clean, scalable architecture.
+---
 
-**Core Focus Areas:**
-- 🚀 **Software Engineering** - Building production-grade applications with modern frameworks
-- 🤖 **AI/ML Integration** - Implementing intelligent solutions and automation
-- 📱 **Full-Stack Development** - End-to-end application development from database to UI
-- 🏗️ **Product Engineering** - Committed to continuous learning, optimization, and seamless user experiences
+### ⚔️ The Developer's Journey
+
+I am a **dedicated software architect** who transforms complex challenges into elegant, scalable solutions. With extensive expertise across mobile, web, and desktop platforms, I craft applications that don't just function—they **excel**.
+
+**My Core Principles:**
+
+- 🔥 **Engineering Excellence** - Building production-grade systems with precision and performance
+- 🧠 **Intelligent Solutions** - Integrating AI/ML to create adaptive, intelligent applications
+- ⚡ **Full-Stack Mastery** - From database architecture to pixel-perfect interfaces
+- 🏰 **System Design** - Architecting robust, maintainable, and scalable software empires
 
 ### Open To
 
-- 🤝 Collaborative open-source projects
-- 💼 Full-time software engineering opportunities
-- 🌱 Learning advanced system design patterns
-- 🔬 Exploring cloud-native architectures and AI/ML innovations
+- 🤝 Collaborative open-source ventures
+- 💼 Full-time software engineering roles
+- 🌱 Advanced system design and architecture learning
+- 🔬 Cloud-native and AI/ML innovation exploration
 
 ---
 
@@ -74,53 +80,53 @@ I'm a dedicated and results-driven **software developer** with extensive hands-o
 <div align="center">
 
 ### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=ff3333)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ff3333)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ff3333)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff3333)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff3333)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=ff3333)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=ff3333)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff3333)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=ff3333)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ff3333)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=ff3333)
+![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=ff3333)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ff3333)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff3333)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff3333)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ff3333)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ff3333)
+![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=ff3333)
 
 <br/><br/>
 
 ### Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=ff3333)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ff3333)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ff3333)
 
 <br/><br/>
 
 ### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ff3333)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ff3333)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ff3333)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=ff3333)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ff3333)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ff3333)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=ff3333)
 
 <br/><br/>
 
 ### Cloud, DevOps & Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ff3333)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff3333)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff3333)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff3333)
+![REST APIs](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=ff3333)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=ff3333)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=ff3333)
 
 </div>
 
@@ -237,16 +243,16 @@ Developed core programming foundations through **Python automation scripts, CLI 
 <div align="center">
 
 ### AWS
-[![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/cccartiii)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified-000000?style=for-the-badge&logo=amazon-aws&logoColor=ff3333)](https://github.com/cccartiii)
 
 ### Oracle
-[![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/cccartiii)
+[![Oracle Certified](https://img.shields.io/badge/Oracle-Certified-000000?style=for-the-badge&logo=oracle&logoColor=ff3333)](https://github.com/cccartiii)
 
 ### NPTEL
-[![NPTEL Certified](https://img.shields.io/badge/NPTEL-Certified-1B3A5F?style=for-the-badge&logo=google&logoColor=white)](https://github.com/cccartiii)
+[![NPTEL Certified](https://img.shields.io/badge/NPTEL-Certified-000000?style=for-the-badge&logo=google&logoColor=ff3333)](https://github.com/cccartiii)
 
 ### Cisco
-[![Cisco Certified](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://github.com/cccartiii)
+[![Cisco Certified](https://img.shields.io/badge/Cisco-Certified-000000?style=for-the-badge&logo=cisco&logoColor=ff3333)](https://github.com/cccartiii)
 
 </div>
 
@@ -257,16 +263,16 @@ Developed core programming foundations through **Python automation scripts, CLI 
 <div align="center">
 
 <a href="https://leetcode.com/cccartiii">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=ff3333" alt="LeetCode"/>
 </a>
 <a href="https://www.geeksforgeeks.org/cccartiii">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=ff3333" alt="GeeksforGeeks"/>
 </a>
 <a href="https://www.hackerrank.com/cccartiii">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
+  <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=ff3333" alt="HackerRank"/>
 </a>
 <a href="https://www.codechef.com/cccartiii">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=ff3333" alt="CodeChef"/>
 
 </a>
 
@@ -279,13 +285,13 @@ Developed core programming foundations through **Python automation scripts, CLI 
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cccartiii&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cccartiii&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ff3333&icon_color=ff3333&text_color=ffffff&bg_color=0d1117" />
 
 <!-- Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cccartiii&theme=radical&hide_border=true&fire=8B5CF6&ring=8B5CF6&currStreakLabel=8B5CF6&background=0d1117" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cccartiii&theme=radical&hide_border=true&fire=ff3333&ring=ff3333&currStreakLabel=ff3333&background=0d1117" />
 
 <!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cccartiii&layout=compact&theme=radical&hide_border=true&title_color=8B5CF6&text_color=ffffff&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cccartiii&layout=compact&theme=radical&hide_border=true&title_color=ff3333&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
@@ -305,7 +311,7 @@ Developed core programming foundations through **Python automation scripts, CLI 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cccartiii&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_border=true&area_color=8B5CF6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cccartiii&bg_color=0d1117&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=true&area_color=ff3333" />
 
 </div>
 
@@ -356,16 +362,16 @@ open_to:
 <div align="center">
 
 <a href="mailto:donascojayanthonie@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff3333" alt="Gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/cccartiii">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff3333" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/cccartiii">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff3333" alt="GitHub"/>
 </a>
 <a href="https://github.com/cccartiii">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=ff3333" alt="Portfolio"/>
 </a>
 
 </div>
@@ -378,6 +384,6 @@ open_to:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=100&width=100%25&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:1a1a1a&height=100&width=100%25&section=footer" />
 
 </div>
