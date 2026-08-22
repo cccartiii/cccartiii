@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<h1>Hi, I'm Jay Anthonie Donasco 👋</h1>
+<h1>Hi, I'm Carti 👋</h1>
 <p><strong>Software Developer • Full-Stack Engineer • AI/ML Explorer</strong></p>
 
 <!-- Typing SVG Animation -->
@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/cccartiii">
   <img src="https://img.shields.io/badge/LinkedIn-001124?style=for-the-badge&logo=linkedin&logoColor=1e90ff" alt="LinkedIn"/>
 </a>
-<a href="mailto:donascojayanthonie@gmail.com">
+<a href="mailto:cartifuture@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-001124?style=for-the-badge&logo=gmail&logoColor=1e90ff" alt="Gmail"/>
 </a>
 <a href="https://github.com/cccartiii">
