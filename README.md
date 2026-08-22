@@ -17,7 +17,7 @@
 <br/>
 
 [![Software Engineer](https://img.shields.io/badge/Software_Engineer-Professional-001124?style=for-the-badge&logo=github&logoColor=1e90ff&labelColor=001124)](https://github.com/cccartiii)
-[![Location](https://img.shields.io/badge/Location-Iloilo_City,_Philippines-001124?style=for-the-badge&logo=google-maps&logoColor=1e90ff&labelColor=001124)](https://github.com/cccartiii)
+[![Location](https://img.shields.io/badge/Location-Philippines-001124?style=for-the-badge&logo=google-maps&logoColor=1e90ff&labelColor=001124)](https://github.com/cccartiii)
 [![Focus](https://img.shields.io/badge/Focus-Full_Stack_%7C_Mobile_%7C_AI-001124?style=for-the-badge&logo=rocket&logoColor=1e90ff&labelColor=001124)](https://github.com/cccartiii)
 
 <br/><br/>
